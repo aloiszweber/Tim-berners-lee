@@ -1,0 +1,150 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #ebebeb;
+  color: rgb(44, 33, 33);
+}
+
+p {
+  text-align: justify;
+  margin: 20px;
+}
+
+#seeyourself {
+  background-color: #dd5555;
+  color: white;
+  border-radius: 6%;
+  width: 137px;
+  height: 40px;
+  font-weight: 900;
+  margin-bottom: 12px;
+  margin-top: -50px;
+  border: 0;
+  font-size: 16px;
+}
+
+#section1 {
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 73%;
+  text-align: center;
+  border-radius: 1%;
+}
+
+#tim-berners-lee {
+  border-radius: 90%;
+  width: 98.7px;
+  height: 106.1px;
+  border: solid 3px;
+  border-color: #cccccc;
+  margin-top: 20px;
+}
+
+#section2 {
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 73%;
+  text-align: center;
+  flex-direction: row;
+  position: relative;
+  border-radius: 1%;
+}
+
+#section3 {
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  width: 73%;
+  text-align: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1%;
+}
+
+#name {
+  color: #dd5555;
+  font-weight: 900;
+  word-spacing: -1px;
+  letter-spacing: -1px;
+}
+
+.floatingpictures {
+  float: left;
+  position: relative;
+  width: 100px;
+  margin: 35px;
+}
+
+#block1 {
+}
+
+#block2 {
+}
+
+#block2 {
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: stretch;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-left: 90px;
+  padding-right: 90px;
+}
+
+.icon {
+  filter: invert(0.2);
+  width: 30px;
+  padding-top: 10px;
+}
+
+#block-facebook {
+  opacity: 0.35;
+}
+
+#block-linkedin {
+  opacity: 0.35;
+}
+
+#block-twitter {
+  opacity: 0.35;
+}
+
+.bolderwords {
+  font-weight: 700;
+  opacity: 0.6;
+}
+
+h3 {
+  opacity: 0.6;
+}
+
+#Hfv {
+  font-weight: 600;
+  padding-top: 25px;
+}
+
+#His {
+  background-color: #d4d4d4;
+}
+
+.socialnetwork {
+  text-align: center;
+  margin-top: 0px;
+  padding-bottom: 30px;
+  font-weight: 500;
+}
+
+#IOF {
+  margin-top: -10px;
+}
